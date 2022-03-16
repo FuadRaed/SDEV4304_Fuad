@@ -1,0 +1,14 @@
+.root{
+    -fx-font-size: 20pt;
+    -fx-background-color: #c5d014;
+}
+.button{
+    -fx-hgap: 40px;
+    -fx-vgap: 70px;
+    -fx-background-color:#ff0000;
+    -fx-border-radius: 20;
+    -fx-background-radius:20px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+
